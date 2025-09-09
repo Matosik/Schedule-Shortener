@@ -23,11 +23,14 @@
 
 ## ⚙️ Настройка сокращений
 
-1. В `chrome://extensions` откройте свединия данного разширения ![alt text](image-0.png).
-2. Нажмите **"Параметры расширений"**![alt text](image-1.png).
+1. В `chrome://extensions` откройте свединия данного разширения <img width="516" height="284" alt="image" src="https://github.com/user-attachments/assets/78b16a8c-0160-40bc-bfbe-cf43664fd81c" />
+.
+2. Нажмите **"Параметры расширений"**<img width="855" height="90" alt="image" src="https://github.com/user-attachments/assets/29d0646d-08ae-4142-9e80-66dda5490605" />
+.
 3. Вставьте JSON с вашими сокращениями, например:
 
-![alt text](image-2.png)
+<img width="1676" height="732" alt="image" src="https://github.com/user-attachments/assets/6ada29a3-94fb-4d71-96f9-d3db971c3a4f" />
+
 
 ```json
 {

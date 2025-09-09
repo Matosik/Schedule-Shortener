@@ -41,3 +41,15 @@
   "Безопасность веб-приложений":"Без. веб"
 }
 ``` 
+
+
+
+
+## Результат
+Было:
+<img width="971" height="1120" alt="image" src="https://github.com/user-attachments/assets/a57c1f41-af89-42c0-aacc-79aa0b2187a0" />
+
+Стало:
+<img width="1271" height="1178" alt="image" src="https://github.com/user-attachments/assets/143c01c3-4531-42a6-9962-d85467e57e22" />
+
+
